@@ -1,2 +1,2 @@
 # Simple_compiler
-Final project of Complier Course
+Final project of Compiler Course
